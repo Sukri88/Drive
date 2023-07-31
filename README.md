@@ -1,9 +1,9 @@
-# Drive
+# instal python winfows
 
 
  ```console  
 
-curl -sLkO https://is.gd/nomachinewindows10 ; bash nomachinewindows10
+pip install wheel
 
  ```
 
