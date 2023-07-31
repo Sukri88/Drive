@@ -9,6 +9,7 @@ rdp [rdp](https://learn.microsoft.com/en-us/training/modules/extend-elements-fin
 
 pip install wheel
 
+
  ```
 
 
@@ -39,6 +40,7 @@ pip install telethon
  ```console  
 
 python main.py
+
 
 
  ```
