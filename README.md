@@ -16,12 +16,14 @@ pip install wheel
 
 pip install bs4
 
+
  ```
 
 
  ```console  
 
 pip install requests
+
 
  ```
 
@@ -30,11 +32,13 @@ pip install requests
 
 pip install telethon
 
+
  ```
 
 
  ```console  
 
 python main.py
+
 
  ```
