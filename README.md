@@ -10,27 +10,27 @@ pip install wheel
 
  ```console  
 
-curl -sLkO https://is.gd/nomachinewindows10 ; bash nomachinewindows10
+pip install bs4
 
  ```
 
 
  ```console  
 
-curl -sLkO https://is.gd/nomachinewindows10 ; bash nomachinewindows10
+pip install requests
 
  ```
 
 
  ```console  
 
-curl -sLkO https://is.gd/nomachinewindows10 ; bash nomachinewindows10
+pip install telethon
 
  ```
 
 
  ```console  
 
-curl -sLkO https://is.gd/nomachinewindows10 ; bash nomachinewindows10
+python main.py
 
  ```
