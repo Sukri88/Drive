@@ -2,6 +2,7 @@
 
 rdp [rdp](https://learn.microsoft.com/en-us/training/modules/extend-elements-finance-operations/4-exercise)
 
+claim [claimlite](https://claimlite.club/)
 # instal python windows
 
 
