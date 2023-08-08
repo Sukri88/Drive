@@ -3,6 +3,9 @@
 rdp [rdp](https://learn.microsoft.com/en-us/training/modules/extend-elements-finance-operations/4-exercise)
 
 claim [claimlite](https://claimlite.club/)
+
+api [api](https://www.assemblyai.com/)
+
 # instal python windows
 
 
